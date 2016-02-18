@@ -1,6 +1,6 @@
 # [JSDoc](http://usejsdoc.org/) plugin that adds support for Riot tag files
 
-A JSDoc plugin that compiles Riot tag files before they are processed by JSDoc
+Compiles Riot tag files before they are processed by JSDoc
 
 ## Installion
 
