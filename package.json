@@ -1,7 +1,7 @@
 {
   "name": "jsdoc-riot",
   "version": "0.0.1",
-  "description": "JSDoc plugin that compiles Riot tag files before they are processed by JSDoc",
+  "description": "JSDoc plugin that adds support for Riot tag files",
   "keywords": [
     "jsdoc",
     "riot",
