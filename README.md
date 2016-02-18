@@ -16,7 +16,10 @@ To use the plugin include the plugin module in the ``` plugins ``` array of [JSD
 
 ```json
 {
-  "plugins": ["jsdoc-riot"]
+  "plugins": ["jsdoc-riot"],
+  "source": {
+        "includePattern": ".+\\.js|tag(doc)?$"
+  }
 }
 ```
 
