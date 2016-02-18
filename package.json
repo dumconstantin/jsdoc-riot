@@ -1,0 +1,37 @@
+{
+  "name": "jsdoc-riot",
+  "version": "0.0.1",
+  "description": "JSDoc plugin that compiles Riot tag files before they are processed by JSDoc",
+  "keywords": [
+    "jsdoc",
+    "riot",
+    "jsdoc-plugin",
+    "riotjs",
+    "documentation",
+    "docs",
+    "plugin"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "riot-compiler": "2.3.22"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dumconstantin/jsdoc-riot"
+  },
+  "homepage": "https://github.com/dumconstantin/jsdoc-riot",
+  "authors": [
+    "Constantin Dumitrescu <dum.constantin@gmail.com> (https://github.com/dumconstantin)"
+  ],
+  "license": "MIT",
+  "private": false,
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dumconstantin/jsdoc-riot/issues"
+  }
+}
