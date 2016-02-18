@@ -24,6 +24,10 @@ To use the plugin include the plugin module in the ``` plugins ``` array of [JSD
 
 Feel free to open issues to propose stuff and participate. Pull requests are also welcome.
 
+## Release History
+
+* 0.1.0 Initial release
+
 ## Licence:
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License)
