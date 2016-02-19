@@ -23,6 +23,17 @@ To use the plugin include the plugin module in the ``` plugins ``` array of [JSD
 }
 ```
 
+If for some wierd reasons jsdoc can't find the ``` jsdoc-riot ``` plugin (I get this among other plugins as well), change the plugin path to the following:
+
+```json
+{
+  "plugins": ["./node_modules/jsdoc-riot"],
+   "source": {
+        "includePattern": ".+\\.js|tag(doc)?$"
+   }
+}
+```
+
 ## Contributing:
 
 Feel free to open issues to propose stuff and participate. Pull requests are also welcome.
